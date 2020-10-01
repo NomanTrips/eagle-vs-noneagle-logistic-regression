@@ -4,4 +4,7 @@ Simple eagle vs non-eagle binary classification. Adapted from deeplearning.ai's 
 Windows installstion and usage:
 1. Install Anaconda for windows
 2. Download the zip file of this repository 
-3. Run the program in Anaconda: cd to project directory in conda and run: 'python logistic-regression-nn'
+3. Run the program in Anaconda: cd to project directory in conda and run: 'python logistic-regression-nn.py'
+
+Additional info:
+-use create-h5-file.py to generate a data set from a set of .jpeg images
